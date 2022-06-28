@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DeplacementInvalidException" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Piece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlusDe2Roi" Collapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Piece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="modele::Table" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACwAAACJAAAABAIAAACKQAABBARABCAAICBAAIEABUA=</HashCode>
+      <FileName>Table.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="modele::Deplacement" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Deplacement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="modele::Piece" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAQAAADABEEABAAAAYIAAgAAgAAAAIAIGAAAAA=</HashCode>
+      <FileName>Piece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="modele::Roi" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAIAgBAAAAAABAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Piece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="modele::Cavalier" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Piece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="modele::Tour" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Piece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="modele::Carre" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAIAAAIAAAAAAAIAKAAYAEAAQAAACCSAAAGIgEAQ=</HashCode>
+      <FileName>Caree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="modele::Jeux" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EYAAUABCAAAAABBAIoAAoAAAAABAAAAACAAQEBAAAAE=</HashCode>
+      <FileName>Jeux.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bibliotheque_cours::RemplaceRemet&lt;FonctionRemplaceT, ParamT&gt;" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAEAQAAAgAAAAAAAAEAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>bibliotheque_cours\bibliotheque_cours.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="__unnamed_interface_0001_1" Collapsed="true">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Afficher.cpp</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="__unnamed_interface_0002_1" Collapsed="true">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Afficher.h</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

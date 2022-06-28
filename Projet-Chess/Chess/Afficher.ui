@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Afficher</class>
+ <widget class="QMainWindow" name="Afficher">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>853</width>
+    <height>550</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Afficher</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGraphicsView" name="graphicsView">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>421</width>
+      <height>421</height>
+     </rect>
+    </property>
+    <property name="sceneRect">
+     <rectf>
+      <x>0.000000000000000</x>
+      <y>0.000000000000000</y>
+      <width>0.000000000000000</width>
+      <height>0.000000000000000</height>
+     </rectf>
+    </property>
+   </widget>
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>10</y>
+      <width>391</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <widget class="QLabel" name="TourJoueur">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>20</y>
+       <width>261</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>TourJouer</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="Statuts">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>80</y>
+       <width>351</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Status</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="ValiditeDuMove">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>50</y>
+       <width>331</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Valide</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QPushButton" name="NewGame">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>380</y>
+      <width>381</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Nouvelle partie</string>
+    </property>
+   </widget>
+   <widget class="QListWidget" name="GamesList">
+    <property name="geometry">
+     <rect>
+      <x>435</x>
+      <y>140</y>
+      <width>381</width>
+      <height>231</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>853</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

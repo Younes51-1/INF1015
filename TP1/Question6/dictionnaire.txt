@@ -1,0 +1,4 @@
+cheval	nom commun masculin	Grand mammifere ongule herbivore de la famille des equides et du genre Equus, au cou muni d'une criniere, domestique par l'homme, utilise notamment comme monture, bete de trait ou de somme, pour la chasse et pour les courses.
+chou-fleur	nom commun masculin	Variete de chou dont les rameaux et les fleurs naissants forment une masse blanche et tendre.
+inviter	verbe	Convier, prier de se trouver, de se rendre quelque part, d'assister a quelque ceremonie, etc.
+oreille	nom commun feminin	Organe de l'ouie, place de chaque cote de la tete.
